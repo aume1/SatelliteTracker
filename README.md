@@ -15,7 +15,7 @@ for the Internet of Thing System Design (ENGG4201) Unit at Macquarie University.
 # Demo Video
 <a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6807512154279952384
 " target="_blank"><img src="imgs/video.png" 
-alt="Satellite Tracker Video Link" width="240" height="180" border="10" /></a>
+alt="Satellite Tracker Video Link" border="10" /></a>
 
 # Circuit Diagram
 ![alt text](imgs/Circuit_Diagram.png "Circuit Diagram")
